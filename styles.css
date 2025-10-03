@@ -56,7 +56,7 @@ nav li:hover ul.dropdown-content{
 }
 
 .bannerarea{
-    background-image: url(background.png);
+    background-image: url(assets/images/background.png);
     background-size: cover;
     background-position: center center;
     top: 175px;

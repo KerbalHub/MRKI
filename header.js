@@ -1,4 +1,4 @@
 const template = document.createElement('template')
 template.innerHTML=
-'<header><div class="wrapper"><div class="logo"><img src="mrkilogo.png" style="width:351px;height:100px;"></div><nav><li><a href="index.html">Home</a></li><li><a href="#" class="dropdown">Explore Kerbol</a><ul class="dropdown-content"><li><a href="moho.html">Moho</a></li><li><a href="eve.html">Eve</a></li><li><a href="kerbin.html">Kerbin</a></li><li><a href="duna.html">Duna</a></li><li><a href="dres.html">Dres</a></li><li><a href="jool.html">Jool</a></li><li><a href="eeloo.html">Eeloo</a></li></ul></li><li><a href="download.html">Download</a></li><li><a href="socials.html">Socials</a></li></nav></div></header>'
+'<header><div class="wrapper"><div class="logo"><img src="assets/images/mrkilogo.png" style="width:192px;height:108px;"></div><nav><li><a href="index.html">Home</a><li><a href="download.html">Download</a></li><li><a href="socials.html">Socials</a></li></nav></div></header>'
 document.body.appendChild(template.content);
