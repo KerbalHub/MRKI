@@ -8,6 +8,6 @@ A Kerbol System Revamp mod
 4. Recommended mods: Parallax Continued (Delete Parallax_StockPlanetTextures), EVE (Keep StockVolumetricClouds), Scatterer, Deferred+Shabby
 
 ## AUTHORS:
-KH - Original Creator and Maintainer
-Ioxcv12 (.321321321.) - Maintainer
-Yukkine0704 - EVE Configs
+1. KH - Original Creator and Maintainer
+2. Ioxcv12 (.321321321.) - Maintainer
+3. Yukkine0704 - EVE Configs
