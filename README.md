@@ -12,3 +12,6 @@ A Kerbol System Revamp mod
 1. KH - Original Creator and Maintainer
 2. Ioxcv12 (.321321321.) - Maintainer
 3. Yukkine0704 - EVE Configs
+
+## SUPPORT ME:
+MRKI will never be paywalled, but if you like to support me (very much thank you for that!) you can do it here: https://ko-fi.com/kh759
